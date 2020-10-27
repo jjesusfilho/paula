@@ -1,0 +1,48 @@
+---
+title: "Desenho"
+author: "Paula Abi-Chahine"
+date: "10/6/2020"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Objeto
+
+IRDR Tema 3 do TJSP sobrestou ações e recursos que tinham por objeto ações de prestação de contas.
+
+## Hipóteses
+
+1. Se os juízes oportunizam o contraditório no caso de aplicação de um precedente advindo de IRDR;
+
+2. Se oportunizam, se levam em consideração as manifestações das partes. De fazem o distinguishing.
+
+3. Se os requisitos para instauração do IRDR estavam presentes.
+
+4. Se a fixação do IRDR cumpriu a função de conter a litigiosidade de massa.
+
+## Operacionalização
+
+
+
+## Tarefas
+
+1. Baixar o número de processos distribuídos no fórum João Mendes antes e depois do IRDR: 
+
+2. Baixar a jurisprudência com o seguintes assuntos:
+
+Assunto: contratos bancários
+
+
+assuntos: 9607,4960,7752,10945,11806,11807,50280
+
+
+3. Listar os processos sobrestados.
+
+
+classe: 198 
+
+
+
